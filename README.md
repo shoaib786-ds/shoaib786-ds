@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shoaib Akhtar</h1>
 <h3 align="center">A passionate Computer Science Engineer from Pakistan</h3>
 
-<img align="right" alt="coding" width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F161921919%2FPortrait-animated-gif&psig=AOvVaw289kYQMPjsMkC0L8xw0yBO&ust=1755081224412000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIC5lrqJhY8DFQAAAAAdAAAAABAE](https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif)">
+<img align="right" alt="coding" width="400" src="<img width="1000" height="756" alt="image" src="https://github.com/user-attachments/assets/dba4126f-4aae-4408-875d-b9393dddf9e9" />
+">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaoib786-ds&label=Profile%20views&color=0e75b6&style=flat" alt="shaoib786-ds" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaoib786-ds" alt="shaoib786-ds" /></a> </p>
