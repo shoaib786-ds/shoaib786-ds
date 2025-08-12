@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shoaib Akhtar</h1>
 <h3 align="center">A passionate Computer Science Engineer from Pakistan</h3>
 
-<img align="right" alt="coding" width="400" src="<img width="1000" height="756" alt="image" src="https://github.com/user-attachments/assets/dba4126f-4aae-4408-875d-b9393dddf9e9" />
+<img align="right" alt="coding" width="400" src="<img width="400" height="756" alt="image" src="https://github.com/user-attachments/assets/dba4126f-4aae-4408-875d-b9393dddf9e9" />
 ">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaoib786-ds&label=Profile%20views&color=0e75b6&style=flat" alt="shaoib786-ds" /> </p>
 
